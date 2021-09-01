@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ADDChuTrang
+- 👋 Hi, I’m @ADDKurama
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
